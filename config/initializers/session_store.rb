@@ -1,1 +1,1 @@
-    Rails.application.config.session_store :cookie_store, key: '_app', domain: 'http://localhost:3000's
+Rails.application.config.session_store :cookie_store, key: '_app', domain: 'http://localhost:3000'
